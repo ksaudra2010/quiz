@@ -4,15 +4,7 @@ var submitButton = document.getElementById('submit');
 var nextButton = document.getElementById('next')
 var currentQuestion = 0
 var numCorrect = 0;
-// function generateQuiz(questions, quizContainer, resultsContainer, submitButton) {
 
-//     showQuestions(questions, quizContainer);
-
-//         // when user clicks submit, show results
-//         submitButton.onclick = function () {
-//             showResults(questions, quizContainer, resultsContainer);
-//         }
-// }
 function showQuestions() {
     // we'll need a place to store the output and the answer choices
     var output = [];
