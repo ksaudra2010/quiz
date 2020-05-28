@@ -1,5 +1,5 @@
-# quiz
-Coding Quiz
+# Coding Quiz
+
 This is a short quiz intended to test your knowledge of Javascript. 
 
 You have 60 seconds to answer 5 questions. 
