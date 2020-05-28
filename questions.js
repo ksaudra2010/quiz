@@ -1,3 +1,4 @@
+// 5 questions
 var questions = [
     {
         title: "Commonly used data types DO NOT include:",
@@ -23,4 +24,4 @@ var questions = [
         title: "Commonly used identifiers for storing data values DO NOT include:",
         choices: ["var", "const", "let", "allow"],
         answer: "allow"
-    }]
+    }];
