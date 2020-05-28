@@ -10,9 +10,6 @@ function showQuestions() {
     var output = [];
     var answers;
 
-    // for each question...
-    // for (var i = 0; i < questions.length; i++) {
-
     // first reset the list of answers
     answers = [];
     var i = currentQuestion
