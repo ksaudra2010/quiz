@@ -6,8 +6,6 @@ var currentQuestion = 0
 var numCorrect = 0;
 // function generateQuiz(questions, quizContainer, resultsContainer, submitButton) {
 
-
-
 //     showQuestions(questions, quizContainer);
 
 //         // when user clicks submit, show results
