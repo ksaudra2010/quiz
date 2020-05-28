@@ -47,7 +47,6 @@ function showResults(questions, quizContainer, resultsContainer) {
     // keep track of user's answers
     var userAnswer = '';
 
-
     // for each question...
     // for (var i = 0; i < questions.length; i++) {
     var i = currentQuestion;
@@ -104,7 +103,3 @@ function ProgressCountdown(timeleft, bar, text) {
     }, 1000);
   });
 }
-// document.getElementById("result").innerHTML = localStorage.getItem("initials");
-// if (results > 80) {
-//     alert('Add Score to High Scores')
-// } else { alert('Too Bad :(')); }
